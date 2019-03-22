@@ -85,8 +85,6 @@ UTF-8 and UTF-16 support
 
 ## Architecture
 
-{% https://github.com/flwmxd/flwmxd.github.io/blob/master/img/1.png %}
-
 ![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/1.png)
 
 ![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/audio.png)
