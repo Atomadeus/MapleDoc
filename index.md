@@ -99,7 +99,7 @@ UTF-8 and UTF-16 support
 
 ![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/charselect.jpg)
 
-![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/game.jpg)]
+![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/game.jpg)
 
 
 
