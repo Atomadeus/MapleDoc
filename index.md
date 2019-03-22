@@ -84,16 +84,16 @@ UTF-8 and UTF-16 support
 ```
 
 ## Architecture
-![](https://raw.github.com/flwmxd/repositpry/master/flwmxd.github.io/img/1.png)
-![](https://raw.github.com/flwmxd/repositpry/master/flwmxd.github.io/img/audio.png)
-![](https://raw.github.com/flwmxd/repositpry/master/flwmxd.github.io/img/event.png)
-![](https://raw.github.com/flwmxd/repositpry/master/flwmxd.github.io/img/window.png)
+![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/1.png)
+![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/audio.png)
+![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/event.png)
+![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/window.png)
 
 ## Screenshot
 
-![](https://raw.github.com/flwmxd/repositpry/master/flwmxd.github.io/img/login.jpg)
-![](https://raw.github.com/flwmxd/repositpry/master/flwmxd.github.io/img/charselect.jpg)
-![](https://raw.github.com/flwmxd/repositpry/master/flwmxd.github.io/img/game.jpg)
+![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/login.jpg)
+![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/charselect.jpg)
+![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/game.jpg)
 
 
 
