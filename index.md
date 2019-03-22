@@ -84,16 +84,23 @@ UTF-8 and UTF-16 support
 ```
 
 ## Architecture
-![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/1.png)
-![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/audio.png)
-![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/event.png)
-![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/window.png)
+
+![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/1.png)
+
+![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/audio.png)
+
+![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/event.png)
+
+![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/window.png)
 
 ## Screenshot
 
-![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/login.jpg)
-![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/charselect.jpg)
-![](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/game.jpg)
+![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/login.jpg)
+
+![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/charselect.jpg)
+
+![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/game.jpg)]
+
 
 
 
