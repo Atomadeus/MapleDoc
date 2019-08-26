@@ -19,8 +19,6 @@ WorldServer 主要是做服务发现，当其中的某个Channel，Login节点�
 
 当玩家点开始游戏的时候，断开与**LoginServer**的连接，拿到**ChannelServer**的**端口**和**ip** 连接上，成功之后发送一个进入游戏的数据包即可。
 
-![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/connect_server.png)
-
 ![View Pic](../../img/connect_server.png)
 
 
