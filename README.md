@@ -3,7 +3,14 @@
 冒险岛开源实现，支持Windows,macOs,Android,iOS
 
 ## 设计文档
+
+[窗口以及坐标系](./client/engine/窗口以及坐标系.md)
+
+[主循环的设计](./client/engine/主循环设计.md)
+
 [纹理管理](./client/engine/纹理管理.md)
+
+[字体管理](./client/engine/字体管理.md)
 
 [音频实现](./client/audio/跨平台Audio实现.md)
 
