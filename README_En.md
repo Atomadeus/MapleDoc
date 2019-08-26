@@ -1,23 +1,14 @@
-# 冒险岛开源实现
+# The MapleStory Open-Source Implement
 
-冒险岛开源实现，支持Windows,macOs,Android,iOS
-
-## 设计文档
-[纹理管理](./client/engine/纹理管理.md)
-
-[音频实现](./client/audio/跨平台Audio实现.md)
-
-[网络：断线重连](./client/network/reconnect.md)
-
-
+The MapleStory Open-Source Implement, which support for android、ios、windows、mac、linux platform.
 
 ## Getting Started
 
-目前进度80%，暂无开源打算
+this project has been completed 80% above . if I have completed 90% above, I would open source it .
 
-### 依赖库
+### Prerequisites
 
-[glfw3](https://github.com/glfw/glfw) [glew](https://github.com/nigels-com/glew) [glfm](https://github.com/brackeen/glfm) [bass](http://www.un4seen.com/) pvmp3 [asio](http://think-async.com/Asio) [freetype2](https://www.freetype.org/) [iconv](http://www.gnu.org/software/libiconv/) [lua](http://www.lua.org/) [openal](www.openal.org/
+this project is base on [glfw3](https://github.com/glfw/glfw) [glew](https://github.com/nigels-com/glew) [glfm](https://github.com/brackeen/glfm) [bass](http://www.un4seen.com/) pvmp3 [asio](http://think-async.com/Asio) [freetype2](https://www.freetype.org/) [iconv](http://www.gnu.org/software/libiconv/) [lua](http://www.lua.org/) [openal](www.openal.org/
 ) [sqlite](https://www.sqlite.org/) [xxhash](https://github.com/Cyan4973/xxHash) [zlib](www.zlib.net/
 ) 
 
@@ -26,7 +17,7 @@ Thanks to [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory)
  [Odinms]
  
 
-### 编译脚本
+### Build
 
 ### Windows
 * Visual Studio 2017
@@ -49,22 +40,21 @@ Thanks to [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory)
 * CMake 3.10.2 or higher
 * `app/project/android`
 
-## 引擎功能
+## Engine Function
 
-语言：
+Program language 
 ```
-c++ 14 
-opengl / opengles
-kotlin objective-c
+ Using c++ 14 and opengl / opengles to implement the core framework 
+ Using kotlin ,objective-c to impl specific platfrom function ,things like virbate ,touch and other event.
 ```
 
-平台支持
+Platform support 
 ```
 OpenGL OpenGLES 2.0
 Android iOS macOS Windows
 ```
 
-核心功能
+Engine Core Fucntion
 ```
 multi-platform
 memory management 
@@ -80,20 +70,20 @@ audio
 network
 ```
 
-支持外设
+Input
 ```
 Touch
 Mouse
 Keyboard
 Joystick
 ```
-其他
+Others
 ```
 UTF-8 and UTF-16 support
 
 ```
 
-## 架构预览
+## Architecture
 
 ![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/1.png)
 
@@ -103,7 +93,7 @@ UTF-8 and UTF-16 support
 
 ![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/window.png)
 
-## 截图
+## Screenshot
 
 ![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/login.jpg)
 
