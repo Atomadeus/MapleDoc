@@ -34,6 +34,6 @@ Token 顾名思义创建一个登录令牌。例如现在的微信三方登录�
 
 基于token 的重连模式如下所示
 
-![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/token.png)
+![View Pic](../../img/token.png)
 
 

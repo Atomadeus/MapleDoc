@@ -1,14 +1,28 @@
-# The MapleStory Open-Source Implement
+# 冒险岛开源实现
 
-The MapleStory Open-Source Implement, which support for android、ios、windows、mac、linux platform.
+冒险岛开源实现，支持Windows,macOs,Android,iOS
+
+## 设计文档
+
+
+* [窗口以及坐标系](./client/engine/窗口以及坐标系.md)
+* [主循环的设计](./client/engine/主循环设计.md)
+* [事件系统的设计与实现](./client/engine/事件系统的设计与实现.md)
+* [纹理管理](./client/engine/纹理管理.md)
+* [字体管理](./client/engine/字体管理.md)
+* [音频实现](./client/audio/跨平台Audio实现.md)
+* [网络：网络层架构](./client/network/网络层的实现.md)
+* [网络：断线重连](./client/network/reconnect.md)
+* [防修改](./client/network/防作弊.md)
+
 
 ## Getting Started
 
-this project has been completed 80% above . if I have completed 90% above, I would open source it .
+目前进度80%，暂无开源打算
 
-### Prerequisites
+### 依赖库
 
-this project is base on [glfw3](https://github.com/glfw/glfw) [glew](https://github.com/nigels-com/glew) [glfm](https://github.com/brackeen/glfm) [bass](http://www.un4seen.com/) pvmp3 [asio](http://think-async.com/Asio) [freetype2](https://www.freetype.org/) [iconv](http://www.gnu.org/software/libiconv/) [lua](http://www.lua.org/) [openal](www.openal.org/
+[glfw3](https://github.com/glfw/glfw) [glew](https://github.com/nigels-com/glew) [glfm](https://github.com/brackeen/glfm) [bass](http://www.un4seen.com/) pvmp3 [asio](http://think-async.com/Asio) [freetype2](https://www.freetype.org/) [iconv](http://www.gnu.org/software/libiconv/) [lua](http://www.lua.org/) [openal](www.openal.org/
 ) [sqlite](https://www.sqlite.org/) [xxhash](https://github.com/Cyan4973/xxHash) [zlib](www.zlib.net/
 ) 
 
@@ -17,7 +31,7 @@ Thanks to [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory)
  [Odinms]
  
 
-### Build
+### 编译脚本
 
 ### Windows
 * Visual Studio 2017
@@ -40,21 +54,22 @@ Thanks to [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory)
 * CMake 3.10.2 or higher
 * `app/project/android`
 
-## Engine Function
+## 引擎功能
 
-Program language 
+语言：
 ```
- Using c++ 14 and opengl / opengles to implement the core framework 
- Using kotlin ,objective-c to impl specific platfrom function ,things like virbate ,touch and other event.
+c++ 14 
+opengl / opengles
+kotlin objective-c
 ```
 
-Platform support 
+平台支持
 ```
 OpenGL OpenGLES 2.0
 Android iOS macOS Windows
 ```
 
-Engine Core Fucntion
+核心功能
 ```
 multi-platform
 memory management 
@@ -70,20 +85,20 @@ audio
 network
 ```
 
-Input
+支持外设
 ```
 Touch
 Mouse
 Keyboard
 Joystick
 ```
-Others
+其他
 ```
 UTF-8 and UTF-16 support
 
 ```
 
-## Architecture
+## 架构预览
 
 ![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/1.png)
 
@@ -93,7 +108,7 @@ UTF-8 and UTF-16 support
 
 ![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/window.png)
 
-## Screenshot
+## 截图
 
 ![View Pic](https://github.com/flwmxd/flwmxd.github.io/blob/master/img/login.jpg)
 
