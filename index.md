@@ -13,7 +13,7 @@
 * [音频实现](./client/audio/跨平台Audio实现.md)
 * [网络：网络层架构](./client/network/网络层的实现.md)
 * [网络：断线重连](./client/network/reconnect.md)
-* [防修改](./client/network/防作弊.md)
+* [防修改](./client/gameplay/防作弊.md)
 
 
 ## Getting Started
